@@ -2,7 +2,7 @@
 Sound Reactive LED with Arduino⚡️
 <div align="center">
   <p>
-      <img width="20%" src="/arduino-icon.svg">
+      <img width="20%" src="https://github.com/romiyadangol/ArduinoProteus/blob/main/Projects/Sound-Reactive-LED/arduino-icon.svg">
   </p>
   <b><h3> Arduino Sound Reactive LED </h3></b>
 </div>
