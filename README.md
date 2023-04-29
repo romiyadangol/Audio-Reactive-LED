@@ -12,7 +12,7 @@ Sound Reactive LED with Arduino⚡️
 ## Items we used
 1. Arduino Uno R3
 2. Sound Sensor
-3. Battries
+3. Batteries
 4. Logic State
 5. Resistors(10WATT1K)
 6. Transistors(BC547)
